@@ -12,9 +12,7 @@
 </div>
 
 ---
-<div align="center" markdown="1">
-    [![States](https://github-readme-stats.vercel.app/api?username=hesham-cant-fly&theme=tokyonight&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![States](https://github-readme-stats.vercel.app/api?username=hesham-cant-fly&theme=tokyonight&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About Me:
 
@@ -28,6 +26,4 @@ I Enjoy Language Design and Game Dev.
 - **Technologies**: raylib
 - [dotfiles](https://github.com/hesham-cant-fly/dotfiles)
 
-<div align="center" markdown="1">
-    [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham-cant-fly&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham-cant-fly&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
