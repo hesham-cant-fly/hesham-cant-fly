@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h2>
-      hey there
+      Hey There
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h2>
     <div id="badges">
@@ -20,8 +20,8 @@ I Enjoy Language Design and Game Dev.
 - **Currently Working on**: [Game](https://github.com/hesham-cant-fly/meteor-escape)
 - **OS**: Fedora
 - **Main Editors**: Doom Emacs, neovim
-- **Main Languages**: C, Zig, TypeScript and a little bit of Python
+- **Main Languages**: C, Zig, TypeScript and a little bit of Lua
 - **Technologies**: raylib
 - [dotfiles](https://github.com/hesham-cant-fly/dotfiles)
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham-cant-fly)](https://github.com/anuraghazra/github-readme-stats)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham-cant-fly&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
