@@ -1,8 +1,8 @@
 <div id="header" align="center">
-    <h1>
+    <h2>
       hey there
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
+    </h2>
     <div id="badges">
       <a href="https://www.youtube.com/@turtlecode6435">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -23,3 +23,5 @@ I Enjoy Language Design and Game Dev.
 - **Main Languages**: C, Zig, TypeScript and a little bit of Python
 - **Technologies**: raylib
 - [dotfiles](https://github.com/hesham-cant-fly/dotfiles)
+
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham-cant-fly)](https://github.com/anuraghazra/github-readme-stats)
