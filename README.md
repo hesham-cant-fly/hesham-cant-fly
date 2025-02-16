@@ -24,4 +24,4 @@ I Enjoy Language Design and Game Dev.
 - **Technologies**: raylib
 - [dotfiles](https://github.com/hesham-cant-fly/dotfiles)
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham-cant-fly&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham-cant-fly&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
