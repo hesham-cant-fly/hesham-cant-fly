@@ -19,11 +19,10 @@
 A moroccan emacs user that is actually 19 years old!
 I Enjoy Language Design and Game Dev.
 
-- **Currently Working on**: [Game](https://github.com/hesham-cant-fly/meteor-escape)
+- **Currently Working on**: [Porgramming Language](https://github.com/hesham-cant-fly/lune-lang)
 - **OS**: Fedora
-- **Main Editors**: Doom Emacs, neovim
-- **Main Languages**: C, Zig, TypeScript and a little bit of Lua
-- **Technologies**: raylib
+- **Main Editors**: Doom Emacs
+- **Main Languages**: C, Zig and a little bit of Lua
 - [dotfiles](https://github.com/hesham-cant-fly/dotfiles)
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham-cant-fly&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
