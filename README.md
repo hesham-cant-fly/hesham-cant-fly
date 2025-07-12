@@ -16,9 +16,8 @@
 A moroccan emacs user that is actually 19 years old!
 I Enjoy Language Design and Game Dev.
 
-- **Currently Working on**: [Porgramming Language](https://github.com/hesham-cant-fly/lune-lang)
 - **OS**: Fedora
-- **Main Editors**: Doom Emacs
+- **Main Editors**: Emacs
 - **Main Languages**: C, Zig and a little bit of Lua
 - [dotfiles](https://github.com/hesham-cant-fly/dotfiles)
 
